@@ -1,0 +1,25 @@
+div.section {
+    width: 600px;
+    margin-left:75px;
+    background-color: lightgrey;
+    box-sizing: border-box;
+    padding: 25px 50px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif
+}
+h2.title{
+    text-align: center;
+}
+
+#title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 600px;
+    margin: 75px;
+    color: purple;
+}
+footer{
+    margin: 75px;
+}
